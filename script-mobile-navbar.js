@@ -1,4 +1,4 @@
-class MobileNavbar {
+class ScriptMobileNavbar {
   constructor(mobileMenu, navList, navLinks) {
     this.mobileMenu = document.querySelector(mobileMenu)
     this.navList = document.querySelector(navList)
@@ -36,9 +36,12 @@ class MobileNavbar {
   }
 }
 
-const mobileNavbar = new MobileNavbar(
+const mobileNavbar = new ScriptMobileNavbar(
   '.mobile-menu',
   '.nav-list',
   '.nav-list li'
 )
 mobileNavbar.init()
+
+const data = document.querySelector('.data');
+data.textContent = new Date().getFullYear()
