@@ -45,7 +45,7 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding-left: 28.5px;
+    padding-left: 28px;
   }
 
   .skills {
@@ -60,23 +60,6 @@
     width: 450px;
   }
 
-  .projetos {
-    max-height: 2800px;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-  }
-  .card-container {
-    flex-wrap: wrap;
-    width: 85%;
-    display: flex;
-    justify-content: center;
-
-  }
-
-  .card-container img {
-    width: 600px;
-  }
   .contatos {
     display: flex;
     flex-direction: column;

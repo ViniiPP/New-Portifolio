@@ -10,26 +10,6 @@
   align-items: center;
 }
 
-.contato-container {
-  grid-area: contato;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.contato-container h3 {
-  font-size: 1.5rem;
-}
-
-.contato-item {
-  display: flex;
-  gap: 12px;
-}
-
-.contato-item__icon {
-  font-size: 1.25rem;
-}
-
 .social-container {
   grid-area: social;
   display: flex;

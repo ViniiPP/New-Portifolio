@@ -83,20 +83,6 @@
     justify-content: center;
   }
 
-  .projetos {
-    height: 1800px;
-    display: flex;
-  }
-
-  .card-container {
-    display: flex;
-    justify-content: center;
-  }
-
-  .card-container img {
-    width: 350px;
-  }
-
   h2 {
     display: flex;
     justify-content: center;
