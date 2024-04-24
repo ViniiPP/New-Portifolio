@@ -23,7 +23,7 @@
 Clone o projeto
 
 ```bash
-  git https://github.com/ViniiPP/New-Portifolio.git
+  git clone https://github.com/ViniiPP/New-Portifolio.git
 ```
 
 
