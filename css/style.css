@@ -78,14 +78,14 @@ footer {
   }
 }
 
-/* Barra de Rolagem */
 
+/* Barra de Rolagem */
 /* Fundo que corre */
 ::-webkit-scrollbar-track {
   background-color: #232c3b;
 }
-/* Fundo que corre */
 
+/* Fundo que corre */
 ::-webkit-scrollbar {
   width: 10px;
   background: #f4f4f4;
@@ -96,6 +96,3 @@ footer {
   background: var(--primary-color);
   border-radius: 15px;
 }
-/* Linha que desce*/
-
-/* Barra de Rolagem */
